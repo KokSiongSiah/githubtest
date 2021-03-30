@@ -14,7 +14,7 @@ Working with our code-base requires at least, some minimal knowledge in the foll
 Listed below are some resources which might be helpful in achieving the pre-requisites described above.
 
 1. Beginners might find the [deal.II video lectures](https://www.math.colostate.edu/~bangerth/videos.html) quite useful, not just as a resource for learning deal.II but for scientific software development in general, since these cover several topic of interest including:
-* Introduction to Linux  
+* Introduction to Linux   
 * Visualization tools: Visit, Paraview
 * IDE: Eclipse
 * Version control system: git
