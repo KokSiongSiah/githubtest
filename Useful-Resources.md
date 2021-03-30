@@ -2,7 +2,7 @@ See also, [guidlines for contributing](https://github.com/KParas/MNC-Frac/wiki/G
 
 ## Technical Pre-requisites
 Working with our code-base requires at least, some minimal knowledge in the following disciplines:
-1. C++  testing
+1. C++  abc
 2. Git
 3. (Nonlinear) Continuum Mechanics
 4. (Nonlinear) Finite Elements
